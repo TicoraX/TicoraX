@@ -35,7 +35,7 @@ Cybersecurity enthusiast and software developer specialized in network security,
 * Introduction to Agent Skills *(Anthropic - Issued July 2026)*
 
 ### 🐍 Programming & Software Development (Cisco)
-* Python Essentials 2 *(Cisco Networking Academy - Issued October 2025)*
+* Python Essentials 1 & 2 *(Cisco Networking Academy - Issued October 2025)*
 
 ---
 
