@@ -74,7 +74,7 @@ Cybersecurity enthusiast and software developer specialized in network security,
 
 <br/>
 
-![Santiago's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TicoraX&theme=tokyonight&hide_border=true)
+![Santiago's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TicoraX&theme=github-dark&hide_border=true)
 
 </div>
 
