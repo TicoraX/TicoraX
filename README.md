@@ -33,6 +33,7 @@ Cybersecurity enthusiast and software developer specialized in network security,
 * Claude 101 *(Anthropic - Issued June 2026)*
 * Claude Code 101 *(Anthropic - Issued July 2026)*
 * Introduction to Agent Skills *(Anthropic - Issued July 2026)*
+* AI Fluency: Framework & Foundations *(Anthropic Education - Issued September 2026)*
 
 ### 🐍 Programming & Software Development (Cisco)
 * Python Essentials 1 & 2 *(Cisco Networking Academy - Issued October 2025)*
