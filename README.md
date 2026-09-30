@@ -6,7 +6,7 @@
 
 ---
 
-### Cybersecurity Specialist | Agentic AI Developer | 🐍 Python Engineer
+### Cybersecurity Specialist | Agentic AI Developer | Python Engineer
 
 [LinkedIn](https://www.linkedin.com/in/santiago-piedrah%C3%ADta-648742372/) • [Email](mailto:santiagopiedrahita8202@gmail.com) • [GitHub](https://github.com/TicoraX)
 
@@ -16,7 +16,29 @@
 
 ## About Me
 
-Cybersecurity enthusiast and software developer specialized in network security, threat landscape analysis, and agentic AI systems. Certified by Fortinet, Anthropic (Claude), and Cisco Networking Academy.
+Software developer and cybersecurity specialist focused on network defense, threat analysis, and agentic AI systems. Experienced in shipping production client software and building systems-level developer tooling. Certified by Fortinet, Anthropic, and Cisco Networking Academy.
+
+---
+
+## Featured Systems & Client Work
+
+### WineSpa - Commercial Booking & Operations Platform
+*Client Project | Full-Stack Software Engineering (1-Month Contract)*
+* Shipped a production web application for a local beauty salon, replacing manual paper scheduling with an automated booking engine.
+* Architecture: Role-based access control (Owner, Admin, Stylist, Client) with JWT authentication, custom scheduling constraints, and image processing pipeline.
+* Stack: React, TypeScript, Tailwind CSS, Node.js, Express, PostgreSQL, Prisma ORM, Docker.
+
+### StackHelx - Local Dev Orchestrator & MCP Gateway
+*Open Source System Tooling | [GitHub](https://github.com/TicoraX/StackHelx)*
+* Local development environment orchestrator featuring a reactive Web UI, reverse proxy, and native Model Context Protocol (MCP) server for autonomous AI agents.
+* Architecture: Non-mocked socket test suite of 474 passing tests, async runtime, circular tunnel prevention, and hot-reload config synchronization.
+* Stack: Python 3.10-3.14, FastAPI, Starlette, Uvicorn, Vanilla JS.
+
+### rtok - High-Performance Terminal Agent Studio
+*Interactive CLI & Systems Engineering | [GitHub](https://github.com/TicoraX/rtok)*
+* Interactive terminal studio for high-throughput AI agent workflows and surgical context window packing.
+* Architecture: Decoupled UI built with The Elm Architecture (TEA/MVI), token budget management (2k-8k tokens), and semantic XML context manifests.
+* Stack: Rust, Ratatui, Crossterm, Tokio, tiktoken-rs.
 
 ---
 
@@ -35,7 +57,7 @@ Cybersecurity enthusiast and software developer specialized in network security,
 * Introduction to Agent Skills *(Anthropic - Issued July 2026)*
 * AI Fluency: Framework & Foundations *(Anthropic Education - Issued September 2026)*
 
-### 🐍 Programming & Software Development (Cisco)
+### Programming & Software Development (Cisco)
 * Python Essentials 1 & 2 *(Cisco Networking Academy - Issued October 2025)*
 
 ---
@@ -56,7 +78,7 @@ Cybersecurity enthusiast and software developer specialized in network security,
 ![Threat Analysis](https://img.shields.io/badge/Threat_Landscape-Analysis-FF4500?style=flat-square)
 ![Network Defense](https://img.shields.io/badge/Network_Defense-Basics-181717?style=flat-square)
 
-### 🐍 Programming & Tools
+### Programming & Tools
 ![Python](https://img.shields.io/badge/Python_3-OOP_%26_Modules-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white)
