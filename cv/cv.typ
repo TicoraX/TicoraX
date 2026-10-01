@@ -89,7 +89,7 @@ Ingeniero de software y especialista en infraestructura agéntica y cibersegurid
 #section("Educación")
 #item(
   title: "Institución Universitaria ITM",
-  role: "Formación Universitaria en Sistemas y Computación",
+  role: "Desarrollo de Software",
   date: "En curso",
   location: "Medellin, Colombia",
   bullets: ()
