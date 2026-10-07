@@ -8,7 +8,7 @@
 
 ### Cybersecurity Specialist | Agentic AI Developer | Python Engineer
 
-[LinkedIn](https://www.linkedin.com/in/santiago-piedrah%C3%ADta-648742372/) • [Email](mailto:santiagopiedrahita8202@gmail.com) • [GitHub](https://github.com/TicoraX)
+[LinkedIn](https://www.linkedin.com/in/santiago-piedrah%C3%ADta-648742372/) • [Email](mailto:santiagohelxsystem@gmail.com) • [GitHub](https://github.com/TicoraX)
 
 ---
 
@@ -105,6 +105,6 @@ Software developer and cybersecurity specialist focused on network defense, thre
 
 ## Contact
 
-* **Email:** [santiagopiedrahita8202@gmail.com](mailto:santiagopiedrahita8202@gmail.com)
+* **Email:** [santiagohelxsystem@gmail.com](mailto:santiagohelxsystem@gmail.com)
 * **LinkedIn:** [santiago-piedrahíta-648742372](https://www.linkedin.com/in/santiago-piedrah%C3%ADta-648742372/)
 * **GitHub:** [TicoraX](https://github.com/TicoraX)
