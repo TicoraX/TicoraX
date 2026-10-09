@@ -17,6 +17,7 @@ Desarrollador de software en Medellín, estudiante de Desarrollo de Software en 
 - *Lenguajes*: Python, TypeScript, JavaScript, SQL, Bash.
 - *Backend y aplicaciones*: FastAPI, Node.js, Express, React, Next.js, Astro, Electron.
 - *Datos*: PostgreSQL, SQLite, Prisma, Drizzle.
+- *Idiomas*: Español (nativo), inglés (B2).
 - *Herramientas*: Docker, Linux, Git, GitHub Actions, Vitest, pytest, Claude Code, Model Context Protocol (MCP).
 
 #section("Experiencia")
