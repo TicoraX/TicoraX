@@ -4,7 +4,6 @@
   title: "Santiago Piedrahita Quintero - Curriculum Vitae",
   author: "Santiago Piedrahita Quintero",
   location: "Medellin, Colombia",
-  phone: "",
   email: "santiagohelxsystem@gmail.com",
   linkedin: "linkedin.com/in/santiago-piedrahita-648742372",
   github: "github.com/TicoraX",
