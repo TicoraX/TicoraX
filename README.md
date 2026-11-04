@@ -45,7 +45,7 @@ Published under [Helx Systems](https://github.com/helx-systems).
 </div>
 
 - **StackHelx** — on PyPI. One file at the project root and `shx up` brings up ports, Docker, backend
-  and frontend. Ships an MCP server for agents. 474 tests against real OS sockets, CI on Linux, macOS
+  and frontend. Ships an MCP server for agents. 502 tests against real OS sockets, CI on Linux, macOS
   and Windows.
 - **OrqueHelx** — Hermes Agent plugin: one model delegates work to another on your own subscriptions
   (Claude, Codex, Antigravity, OpenCode). When a quota runs out, you decide where the task goes.

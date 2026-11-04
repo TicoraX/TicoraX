@@ -11,7 +11,7 @@
 )
 
 #section("Perfil")
-Desarrollador de software en Medellín, estudiante de Desarrollo de Software en el ITM. Construyo aplicaciones full-stack y herramientas para desarrolladores: una plataforma de agendamiento pagada por un cliente y herramientas de código abierto publicadas en PyPI y GitHub. Escribo los criterios de aceptación antes del código y respaldo cada afirmación con una prueba o una medición.
+Desarrollador de software en Medellín, estudiante de Desarrollo de Software en el ITM. Construyo aplicaciones full-stack y herramientas para desarrolladores: trabajo por contrato en la plataforma de reservas de un cliente y herramientas de código abierto publicadas en PyPI y GitHub. Escribo los criterios de aceptación antes del código y respaldo cada afirmación con una prueba o una medición.
 
 #section("Habilidades Técnicas")
 - *Lenguajes*: Python, TypeScript, JavaScript, SQL, Bash.
@@ -29,8 +29,8 @@ Desarrollador de software en Medellín, estudiante de Desarrollo de Software en 
   location: "Medellin, Colombia (Remoto)",
   tech: "React, TypeScript, Express, PostgreSQL, Prisma, Docker",
   bullets: (
-    "Construí y desplegué en un mes una plataforma de agendamiento y gestión para un spa de uñas, que reemplazó la agenda en papel y evita citas superpuestas.",
-    "Diseñé el control de acceso para 4 roles (propietario, administrador, estilista, cliente) con JWT, validación de archivos subidos por su firma binaria y entornos con Docker Compose.",
+    "Corregí, optimicé y amplié la plataforma de reservas de un spa de uñas: reserva por servicio, fecha y manicurista, portal de clientes y panel de administración, con citas sin solapamiento en PostgreSQL. 32 PRs mergeados en 5 semanas.",
+    "Endurecí el control de acceso para 4 roles (dueño, administrador, manicurista, cliente) con JWT, bcrypt y rate limit, y corregí los 10 hallazgos de un pentest con Strix, 2 de ellos críticos.",
   )
 )
 
@@ -55,7 +55,7 @@ Desarrollador de software en Medellín, estudiante de Desarrollo de Software en 
   tech: "Python, FastAPI, Starlette, Vanilla JS, MCP",
   bullets: (
     "Construí y publiqué en PyPI un orquestador de entornos locales: un archivo de configuración y shx up asignan puertos libres y levantan Docker, backend y frontend, con proxy inverso, consola web y servidor MCP para agentes.",
-    "Escribí 474 pruebas que corren contra sockets reales del sistema operativo, sin mocks; la integración continua las ejecuta en Linux, macOS y Windows.",
+    "Escribí 502 pruebas que corren contra sockets reales del sistema operativo, sin mocks; la integración continua las ejecuta en Linux, macOS y Windows.",
   )
 )
 
@@ -64,10 +64,10 @@ Desarrollador de software en Medellín, estudiante de Desarrollo de Software en 
   role: "Autor",
   date: "Sept. 2026 - Presente",
   location: "github.com/TicoraX/OrqueHelx",
-  tech: "Python, TypeScript, Hermes Agent, ACP",
+  tech: "Python, Hermes Agent, ACP, pytest",
   bullets: (
     "Construí un plugin de Hermes Agent para que un modelo delegue tareas a otro con las suscripciones propias del usuario (Claude, Codex, Antigravity, OpenCode); el modelo elige la ruta en cada llamada y el plugin nunca cambia de proveedor por su cuenta.",
-    "Agregué un panel con la cuota medida por ruta, el árbol de subagentes en vivo y una pausa que retiene el trabajo hasta que la cuota del proveedor se reinicia. Última versión: v0.1.4.",
+    "Agregué una pestaña al dashboard de Hermes con la cuota medida por ruta y el árbol de subagentes en vivo, y una pausa que retiene la conversación hasta que la cuota se reinicia. 57 pruebas con pytest contra un Hermes real. Última versión: v0.3.0.",
   )
 )
 
@@ -79,7 +79,7 @@ Desarrollador de software en Medellín, estudiante de Desarrollo de Software en 
   tech: "Next.js, Electron, SQLite, DeepSeek API, Vitest",
   bullets: (
     "Construí una app de escritorio local donde un LLM califica cada tarea y la XP ganada compra premios que define el usuario; sin cuentas ni backend en la nube.",
-    "Guardé la XP en centésimas enteras con actualizaciones atómicas protegidas en SQL, para que el saldo no quede negativo ni se gaste dos veces, y acoté la calificación del LLM a 1-200 XP antes de tocar el saldo. 237 pruebas de Vitest en verde.",
+    "Guardé la XP en centésimas enteras con actualizaciones atómicas protegidas en SQL, para que el saldo no quede negativo ni se gaste dos veces, y acoté la calificación del LLM a 1-200 XP antes de tocar el saldo. 289 pruebas de Vitest en verde.",
   )
 )
 
