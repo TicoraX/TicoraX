@@ -51,7 +51,7 @@ Desarrollador de software en Medellín, estudiante de Desarrollo de Software en 
   title: "StackHelx",
   role: "Autor",
   date: "2026",
-  location: "github.com/TicoraX/StackHelx",
+  location: "github.com/helx-systems/StackHelx",
   tech: "Python, FastAPI, Starlette, Vanilla JS, MCP",
   bullets: (
     "Construí y publiqué en PyPI un orquestador de entornos locales: un archivo de configuración y shx up asignan puertos libres y levantan Docker, backend y frontend, con proxy inverso, consola web y servidor MCP para agentes.",
@@ -63,7 +63,7 @@ Desarrollador de software en Medellín, estudiante de Desarrollo de Software en 
   title: "OrqueHelx",
   role: "Autor",
   date: "Sept. 2026 - Presente",
-  location: "github.com/TicoraX/OrqueHelx",
+  location: "github.com/helx-systems/OrqueHelx",
   tech: "Python, Hermes Agent, ACP, pytest",
   bullets: (
     "Construí un plugin de Hermes Agent para que un modelo delegue tareas a otro con las suscripciones propias del usuario (Claude, Codex, Antigravity, OpenCode); el modelo elige la ruta en cada llamada y el plugin nunca cambia de proveedor por su cuenta.",
@@ -75,7 +75,7 @@ Desarrollador de software en Medellín, estudiante de Desarrollo de Software en 
   title: "LuckHelx",
   role: "Autor",
   date: "2026",
-  location: "github.com/TicoraX/LuckHelx",
+  location: "github.com/helx-systems/LuckHelx",
   tech: "Next.js, Electron, SQLite, DeepSeek API, Vitest",
   bullets: (
     "Construí una app de escritorio local donde un LLM califica cada tarea y la XP ganada compra premios que define el usuario; sin cuentas ni backend en la nube.",

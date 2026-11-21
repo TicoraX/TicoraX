@@ -51,7 +51,7 @@ Software developer in Medellín, studying Software Development at ITM. I build f
   title: "StackHelx",
   role: "Author",
   date: "2026",
-  location: "github.com/TicoraX/StackHelx",
+  location: "github.com/helx-systems/StackHelx",
   tech: "Python, FastAPI, Starlette, Vanilla JS, MCP",
   bullets: (
     "Built and published on PyPI a local dev environment orchestrator: one config file and shx up assigns free ports and starts Docker, backend and frontend, with a reverse proxy, a web console and an MCP server for agents.",
@@ -63,7 +63,7 @@ Software developer in Medellín, studying Software Development at ITM. I build f
   title: "OrqueHelx",
   role: "Author",
   date: "Sept. 2026 - Present",
-  location: "github.com/TicoraX/OrqueHelx",
+  location: "github.com/helx-systems/OrqueHelx",
   tech: "Python, Hermes Agent, ACP, pytest",
   bullets: (
     "Built a Hermes Agent plugin that lets one model delegate tasks to another on the user's own subscriptions (Claude, Codex, Antigravity, OpenCode); the model picks a route per call and the plugin never switches provider on its own.",
@@ -75,7 +75,7 @@ Software developer in Medellín, studying Software Development at ITM. I build f
   title: "LuckHelx",
   role: "Author",
   date: "2026",
-  location: "github.com/TicoraX/LuckHelx",
+  location: "github.com/helx-systems/LuckHelx",
   tech: "Next.js, Electron, SQLite, DeepSeek API, Vitest",
   bullets: (
     "Built a local desktop app where an LLM rates each task and the earned XP buys rewards the user defines; no accounts and no cloud backend.",
