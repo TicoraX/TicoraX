@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Software+Developer+%C2%B7+Medell%C3%ADn%2C+Colombia;Developer+tools+%26+full-stack+apps;Python+%C2%B7+TypeScript+%C2%B7+Node.js" alt="Software Developer · Developer tools & full-stack apps" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-piedrah%C3%ADta-648742372/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-piedrahita-648742372/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:santiagohelxsystem@gmail.com)
 [![Helx Systems](https://img.shields.io/badge/Helx_Systems-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/helx-systems)
 
@@ -32,8 +32,6 @@ admin, stylist, client) with JWT auth, file uploads checked by content type.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
 ## Projects
-
-Published under [Helx Systems](https://github.com/helx-systems).
 
 <div align="center">
 
