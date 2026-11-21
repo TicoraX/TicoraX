@@ -33,12 +33,14 @@ admin, stylist, client) with JWT auth, file uploads checked by content type.
 
 ## Projects
 
+Published under [Helx Systems](https://github.com/helx-systems).
+
 <div align="center">
 
-<a href="https://github.com/TicoraX/StackHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=TicoraX&repo=StackHelx&theme=tokyonight&hide_border=true" alt="StackHelx" /></a>
-<a href="https://github.com/TicoraX/OrqueHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=TicoraX&repo=OrqueHelx&theme=tokyonight&hide_border=true" alt="OrqueHelx" /></a>
-<a href="https://github.com/TicoraX/LuckHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=TicoraX&repo=LuckHelx&theme=tokyonight&hide_border=true" alt="LuckHelx" /></a>
-<a href="https://github.com/TicoraX/OptiHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=TicoraX&repo=OptiHelx&theme=tokyonight&hide_border=true" alt="OptiHelx" /></a>
+<a href="https://github.com/helx-systems/StackHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=helx-systems&repo=StackHelx&theme=tokyonight&hide_border=true" alt="StackHelx" /></a>
+<a href="https://github.com/helx-systems/OrqueHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=helx-systems&repo=OrqueHelx&theme=tokyonight&hide_border=true" alt="OrqueHelx" /></a>
+<a href="https://github.com/helx-systems/LuckHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=helx-systems&repo=LuckHelx&theme=tokyonight&hide_border=true" alt="LuckHelx" /></a>
+<a href="https://github.com/helx-systems/OptiHelx"><img src="https://github-stats-extended.vercel.app/api/pin/?username=helx-systems&repo=OptiHelx&theme=tokyonight&hide_border=true" alt="OptiHelx" /></a>
 
 </div>
 
